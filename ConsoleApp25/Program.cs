@@ -31,7 +31,7 @@ det = Frac.DeterMatrix(matrix);
 
 if(det.Get() == "0")
 {
-    Console.WriteLine("Определитель равен нулю");
+    Console.WriteLine("the determinant is zero");
     return;
 }
 
